@@ -44,5 +44,3 @@ Opening the **Terminal** is very easy, and it can be performed by several method
 For **Spaces**, they are valid, but they could use some problem. So whenever we want to use a sentence with a space between words. we could either use the name or sentence inside Quotes. Or use escape character, which is a backslash ( \ ).
 
 In Linux a dot (.) in the beginning of a file name will hide it. So to hide a file of a directory, just create/rename with a dot (.) at the beginning.   
-
-# test  
