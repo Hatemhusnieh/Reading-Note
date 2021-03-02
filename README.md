@@ -13,8 +13,13 @@ I always aim at having a growth in mind and so I have **three rules**:
 2. If no **PAIN** there is mo **GAIN**
 3. Always embrace challenges 
 
+#### Any way that was boring so !!!
+
 *This is a random gasp about my favorite rock band !*
-### Band Members:
+
+### It's called **Three Days Grace**
+
+### Band Members:  
 * Adam Gontier
 * Brad Walst
 * Barry Stock
@@ -22,7 +27,7 @@ I always aim at having a growth in mind and so I have **three rules**:
 
 ![3DG](https://musiccanada.files.wordpress.com/2018/05/three-days-grace.jpg)
 
-### Band Albums:
+### Band Albums:  
 1. Three Days Grace (2003)
 2. One-X (2006)
 3. Life Starts Now (2009)
