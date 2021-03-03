@@ -26,8 +26,8 @@ Key Motivations | Specific Goals
 Are they looking for general entertainment or do they need to achieve a specific goal? | Do they want general information / research (such as background on a topic / company), or are they after something specific (such as a particular fact or information on a product)?
  If there is a specific goal, is it a personal or professional one? | Are they already familiar with the service or product that you offer or do they need to be introduced to it?
  Do they see spending time on this activity as essential or a luxury? | Are they looking for time sensitive information, such as the latest news or updates on a particular topic?
- | Do they want to discover information about a specific product or service to help them decide whether to buy it or not?
- | Do they need to contact you? If so, can they visit in person (which might require opening hours and a map)? Or might they need email or telephone contact details?  
+ . | Do they want to discover information about a specific product or service to help them decide whether to buy it or not?
+ . | Do they need to contact you? If so, can they visit in person (which might require opening hours and a map)? Or might they need email or telephone contact details?  
 ### What Your Visitors are Trying to Achieve ?  
 In this step you're going to determine the reasons why your visitors have came to your web site  
 'it's unlikely to know every other reason'  
