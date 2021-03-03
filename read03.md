@@ -53,7 +53,7 @@ And to start tracking perform these:
 
 ### Cloning  
 To create a copy of your Git file perfom this:  
-[$ git clone https://github.com/test]  
+[$ git clone **URL**]  
 
 ## Workflow  
 ### Local Repository Structure  
