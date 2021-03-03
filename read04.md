@@ -104,3 +104,5 @@ Nav.bars help visitors to move around the site and a good nav.bar consists of th
 * Interactive: either by size, color, appearence etc.
 * Consistent: should not change with time
 
+Auther: Hatem Husnieh
+
