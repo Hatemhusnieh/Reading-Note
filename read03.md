@@ -1,4 +1,4 @@
-# Reading-Notes
+# Terminal (Git and GitHub)
 *Before getting into things we have to explain some terms and methodologies*  
 ## Version Control  
 A **version control** is a system allows its user to revert a file or project to a previous version, track modifications and modifying individuals, and compare changes.  
