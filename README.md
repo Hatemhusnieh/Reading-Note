@@ -7,7 +7,7 @@ and this is my ugly face ^_^
 
 ## Table of Content
 * [Growth Mindset](https://hatemhusnieh.github.io/Reading-Note/read0)  
-[Growth Mindset](https://hatemhusnieh.github.io/Reading-Note/read0){:target="_blank" rel="noopener"}
+
 * [Mastering Markdown on GitHub](https://hatemhusnieh.github.io/Reading-Note/read01)  
 
 * [Choosing a Text Editor](https://hatemhusnieh.github.io/Reading-Note/read02)  
