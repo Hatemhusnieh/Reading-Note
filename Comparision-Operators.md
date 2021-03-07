@@ -7,7 +7,7 @@
   
 # Logical Operators  
 * **Logical Operators** allow us to compare the result of one ore more of **comparision operators**  
-* we have three **logical operators** **AND(&&)**,**OR(||) and NOT(!)  
+* we have three **logical operators** **AND(&&)**,**OR(||)** and **NOT(!)**  
 
 ![LO](LO.png)  
   
