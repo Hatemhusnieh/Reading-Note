@@ -21,7 +21,7 @@
 ## Background Color
 we can change the **background color** of any **HTML** element, **tag** or specific part using the **`<div>`** tag  
 
-![background color](bgColor.png)  
+![background color](bgcolor.png)  
 
 ## Understanding Color  
 There are many terms that are usful to understand when choosing a color as a backgroung, like:
